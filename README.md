@@ -2,6 +2,6 @@
 # Robbie-Lens
 
 
-## Migration note
+## Migration
 
-Project source and the main image assets have been migrated to `RicoITSec/Robbie-Lens`. Two legacy portfolio images (`portrait4.jpg` and `portrait6.jpg`) are still referenced from the original public repository to preserve the page without duplicating those files.
+Project code and recruiter-facing assets are maintained under `RicoITSec/Robbie-Lens`.
